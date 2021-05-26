@@ -12,7 +12,7 @@ TODO:
 
 ## Example:
 ### mesh file
-<img src="w1.png" width="50%" height="50%">   
+<img src="output/w1.png" width="50%" height="50%">   
 
 ### mask generated (for given rotation and translation values):
 <img src="output/mask.png" width="50%" height="50%">   

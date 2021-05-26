@@ -1,0 +1,5 @@
+
+      <param name="camera_matrix" value="528.8181, 0.0, 347.5102, 0.0, 528.5537, 258.8532, 0.0, 0.0, 1.0" />
+      <param name="distort_vec" value="0.003729, -0.111591, -0.000104, 0.002567, 0.210856"/>
+      <param name="camera_height" value="480" />
+      <param name="camera_width" value="640" />
