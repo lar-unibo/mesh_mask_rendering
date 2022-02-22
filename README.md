@@ -10,6 +10,17 @@ The script computes the mask of the mesh object at the provided pose.
 TODO:
 - add support for stl files (commonly present in robot descriptions in ROS)
 
+# How to run
+
+create conda virtual environment with ```conda create --name render python=3.8```.
+
+activate environment with ```conda activate render``
+
+install matplotlib with ```conda install maptlotlib```.
+
+then ```pip install -r requirements.txt```
+
+
 ## Example:
 ### mesh file
 <img src="output/w1.png" width="50%" height="50%">   
